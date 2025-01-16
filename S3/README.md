@@ -3,6 +3,7 @@
 - Python
 - Boto3 client
 - Aws connection strings
+- load_dotenv package
 
 
 ## Environment setup
