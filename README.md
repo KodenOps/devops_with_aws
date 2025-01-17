@@ -29,4 +29,4 @@ AWS_SECRET_KEY=xxxxxxxxxxxxxxxx
 - Check-out the EC2 video for more understanding : ["Watch EC2 Video"](https://www.youtube.com/watch?v=PL0hRXzXbmE&t=980s)
 - Check-out the S3 video for more understanding : ["Watch S3 Video"](https://www.youtube.com/watch?v=25PttcmnbRc&t=5s)
 
-<video src="https://www.youtube.com/watch?v=25PttcmnbRc&t=5s" autoplay loop controls>
+<video src="https://www.youtube.com/watch?v=25PttcmnbRc&t=5s" autoplay loop controls/>
