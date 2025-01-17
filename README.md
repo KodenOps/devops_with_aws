@@ -23,3 +23,6 @@ AWS_SECRET_KEY=xxxxxxxxxxxxxxxx
 
 ```
 - Grab a bottle of soda/beer/water and let's dive into AWS awesomeness
+
+### Resources 
+Check-out the Boto3 documentation : ["DOCUMENTATION"](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/index.html) 
