@@ -1,4 +1,4 @@
-# EC2: Understanding the AWS Infrastructure as a Service
+# EC2: Understanding the AWS Infrastructure as a Service 1
 
 ## Stacks:
 
